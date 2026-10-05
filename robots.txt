@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lindabadan.github.io/sitemap.xml
