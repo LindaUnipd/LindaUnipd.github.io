@@ -141,7 +141,7 @@ h2 .count { font-family: var(--sans); font-size: 0.85rem; font-weight: 400; colo
   background: var(--accent-wash); border-radius: var(--radius); display: grid; place-items: center;
 }
 .portrait .initials { font-size: 4.2rem; color: var(--accent); letter-spacing: 0.02em; }
-.portrait img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.portrait img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 30% 40%; }
 
 .home-cols {
   display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); gap: 0 clamp(2rem, 5vw, 4.5rem);
